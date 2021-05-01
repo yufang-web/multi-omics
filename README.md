@@ -1,1 +1,1 @@
-# WGS
+# multi-omics
